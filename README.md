@@ -15,3 +15,11 @@ Repository accompanying NER (Named Entity Recognition) transfer paper (NoDaLiDa 
     abstract = "Named Entity Recognition (NER) has greatly advanced by the introduction of deep neural architectures. However, the success of these methods depends on large amounts of training data. The scarcity of publicly-available human-labeled datasets has resulted in limited evaluation of existing NER systems, as is the case for Danish. This paper studies the effectiveness of cross-lingual transfer for Danish, evaluates its complementarity to limited gold data, and sheds light on performance of Danish NER.",
 }
 ```
+
+and the references for the UD conversion of the Copenhagen Dependency Treebank:
+
+- Johannsen, Anders, Martínez Alonso, Héctor and Plank, Barbara. "Universal Dependencies for Danish". TLT14, 2015.
+
+- Buch-Kromann, Matthias T., Line Mikkelsen, and Stine Kern Lynge. "Danish dependency treebank.". TLT. 2003.
+
+- Keson, Britt (1998). Documentation of The Danish Morpho-syntactically Tagged PAROLE Corpus. Technical report, DSL
