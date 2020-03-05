@@ -1,4 +1,7 @@
 # transfer_ner
+
+**This repository has moved to https://github.com/bplank/danish_ner_transfer** (March 5, 2020)
+
 Repository accompanying NER (Named Entity Recognition) transfer paper (NoDaLiDa 2019)
 
 ```
