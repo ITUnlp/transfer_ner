@@ -16,7 +16,7 @@ Repository accompanying NER (Named Entity Recognition) transfer paper (NoDaLiDa 
 }
 ```
 
-and the references for the UD conversion of the Copenhagen Dependency Treebank:
+and the references for the UD (Universal Dependencies) conversion of the Danish Dependency Treebank:
 
 - Johannsen, Anders, Martínez Alonso, Héctor and Plank, Barbara. "Universal Dependencies for Danish". TLT14, 2015.
 
